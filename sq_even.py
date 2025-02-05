@@ -1,8 +1,5 @@
 # Code to make new list of even number and also their squares
-
-
-# Importing the reduce function from the functools module (not used in this code)
-from functools import reduce    
+   
 
 # Defining a list of integers ranging from 0 to 55
 lst = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 55, 32, 27] 
